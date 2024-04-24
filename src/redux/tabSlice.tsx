@@ -1,4 +1,4 @@
-import { AppDirectory } from "@/appData";
+
 import { App, Tab } from "@/types";
 import { createSlice } from "@reduxjs/toolkit";
 import help from "../../assets/dialog/help.png";
