@@ -56,7 +56,7 @@ export default function Home() {
     <>
       <Head>
         <title>Wendows - Home Page</title>
-        <meta name="description" content="My Personal Space" />
+        <meta name="description" content="Wendows on SOL" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/images/favicon.ico" />
       </Head>
