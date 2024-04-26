@@ -35,6 +35,13 @@ export default function Home() {
       "noreferrer"
     );
   };
+  const handleOpenBin = () => {
+    window.open(
+      "https://sol-incinerator.com/",
+      "_blank",
+      "noreferrer"
+    );
+  };
   const handleOpenX = () => {
     window.open(
       "https://twitter.com/WendowsonSol",
@@ -76,7 +83,7 @@ export default function Home() {
           />
           <DesktopIcon
             appID={2}
-            doubleClick={iconClicked}
+            doubleClick={handleOpenBin}
             title="Recycling Bin"
             img={bin}
           />
