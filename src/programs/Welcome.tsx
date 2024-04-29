@@ -99,7 +99,7 @@ const Welcome = ({ id }: props) => {
                 tooltip="Telegram"
                 onClick={() => {
                   window.open(
-                    "https://t.me/+pvzGPs5AABQ5ODNh",
+                    "https://t.me/+njhSfUPmWQ04NTgx",
                     "_blank",
                     "noreferrer"
                   );
